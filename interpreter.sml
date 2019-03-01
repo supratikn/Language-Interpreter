@@ -1,6 +1,5 @@
 (*
 Supratik Neupane
-person number: 50160008
 Created on: March 3, 2018
 *)
 fun interpreter(input,output)=
