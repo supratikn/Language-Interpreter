@@ -2,7 +2,7 @@
 Created on Feb 28, 2018
 
 @author: Supratik Neupane
-person number: 50160008
+
 '''
 
 # static integers that keep track of the data types
